@@ -1,0 +1,5 @@
+FlashApp/
+│
+├── app.py
+├── requirements.txt
+└── index.html   (optional / embedded)
