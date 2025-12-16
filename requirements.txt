@@ -1,5 +1,12 @@
+streamlit
 FlashApp/
 │
 ├── app.py
 ├── requirements.txt
-└── index.html   (optional / embedded)
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── README.md
